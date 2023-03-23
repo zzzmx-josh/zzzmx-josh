@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Visitor Count](https://profile-counter.glitch.me/zzzmx-josh/count.svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzzmx-josh&layout=compact)](https://github.com/zzzmx-josh/github-readme-stats)
